@@ -1,0 +1,16 @@
+[
+    [
+        {
+            "id": 2,
+            "peso": 95.0,
+            "cor": "azul",
+            "comprimento": 10.0
+        },
+        {
+            "id": 3,
+            "peso": 95.0,
+            "cor": "azul",
+            "comprimento": 10.0
+        }
+    ]
+]
